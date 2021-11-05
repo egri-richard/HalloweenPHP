@@ -1,0 +1,11 @@
+{
+    "name": "petrik14s/egridanielr",
+    "description": "halloween projekt",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Petrik14s\\Egridanielr\\Halloween\\": "src/"
+        }
+    },
+    "require": {}
+}
